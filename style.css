@@ -174,13 +174,13 @@ h2{
  .title i{
      margin-top: -5px;
      font-size: 70px;
-     color: #ff0039;
+     color: rgb(238, 18, 18);
  } 
 
 footer{
     height: 115px;
     width: 100%;
-    background-color:  #ff4e57;
+    background-color:rgb(238, 18, 18);
 }
 #foot{
     padding: 5px;
