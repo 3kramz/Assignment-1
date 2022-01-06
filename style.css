@@ -1,0 +1,44 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Source Serif Pro', serif;
+}
+.flex{
+    display: flex;
+    justify-content: space-around;
+}
+
+.half-width{
+    width: 50%;
+}
+
+.orange{
+    color: #ffaa57;
+}
+.banner-text{
+    padding: 30px;
+    margin: 40px;
+}
+.banner-text p{
+    margin-bottom: 40px;
+}
+.banner-text h1{
+    font-size: 60px;
+    padding-left :20px ;
+    border-left: 5px solid;
+    border-radius: 10px;
+    border-image: linear-gradient( red,rgb(221, 25, 58));
+    border-image-slice: 1;
+}
+#section2-img{
+    width: 500px;
+}
+.Btn{
+    padding: 10px 30px;
+    background-color: rgb(238, 18, 18);
+    text-decoration: none;
+    color: #fff;
+    font-size: 18px;
+    border-radius: 5px;
+    margin: px 10px;
+}
