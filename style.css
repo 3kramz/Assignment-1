@@ -11,16 +11,24 @@ body{
 .half-width{
     width: 50%;
 }
+.width30{
+    width: 40%;
+}
+.width70{
+    width: 60%;
+}
 
+p{
+    font-size: 20px;
+   
+}
 .orange{
     color: #ffaa57;
 }
 .banner-text{
     padding: 30px;
     margin: 40px;
-}
-.banner-text p{
-    margin-bottom: 40px;
+    margin-top: 100px;
 }
 .banner-text h1{
     font-size: 60px;
@@ -33,6 +41,9 @@ body{
 #section2-img{
     width: 500px;
 }
+.pBtn{
+margin: 30px 0;
+}
 .Btn{
     padding: 10px 30px;
     background-color: rgb(238, 18, 18);
@@ -41,4 +52,46 @@ body{
     font-size: 18px;
     border-radius: 5px;
     margin: px 10px;
+}
+.center{
+    text-align: center;
+}
+h2{
+    font-size: 35px;
+    font-weight: 600;
+}
+#missions{
+    padding: 0 30px;
+}
+.mission1{
+    margin: 20px 2%;
+    padding: 20px;
+    background-color: #ebf5f6;
+    border-radius: 15px;
+}
+.mission2{
+    margin: 20px 2%;
+    padding: 20px;
+    background-color: #ffeeee;
+    border-radius: 10px;
+}
+.mission3{
+    margin: 20px 2%;
+    padding: 20px;
+    background-color: #fff4d6;
+    border-radius: 10px;
+}
+.icon{
+    padding: 10px;
+    font-size: 50px;
+    color: rgb(88, 85, 85);
+}
+
+.about{
+    padding: 5%;
+}
+.about img{
+    margin-top: 30px;
+    width: 90%;
+    height: 90%;
 }
